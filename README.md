@@ -1,2 +1,2 @@
-# Tanslator_KMMApp
+# Translator_KMMApp
 Practice KMM
